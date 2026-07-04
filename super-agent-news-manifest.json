@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[consumerreports.org](https://www.consumerreports.org/cars/car-pricing-negotiation/uber-lyft-pricing-ai/)",
+    "[fortune.com](https://fortune.com/2026/05/06/ai-china-book-travel-hail-rides/)",
+    "[openai.com](https://openai.com/blog/uber-uses-openai/)",
+    "[phandroid.com](https://phandroid.com/2026/06/24/tecnos-ellaclaw-ai-agent-book-rides/)",
+    "[builtin.com](https://builtin.com/artificial-intelligence/ai-in-cars)",
+    "[simplilearn.com](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/artificial-intelligence-applications)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px/2-3 lines; AIDA=pass; density_check=grid-auto-flow:dense present; label_sweep=all competitors named; contrast_check=ink on paper; cache_phrase_check=2+ occurrences",
+  "generated_at": "2026-07-04T03:56:19.637872+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and reuse your routes automatically",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "An indexable Super use\u2011case page showing how a personal AI agent can compare ride options, handle pickup details, and reuse a computer-use cache for repeated routes \u2014 with a centered cinematic hero, dense workflow steps, competitor context, and source-backed market evidence."
+}
